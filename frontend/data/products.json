@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Tiger",
+    "variant": "Classic",
+    "volume": 250,
+    "price": 2.59,
+    "description": "Najlepszy wybór dla ludzi dbających o linię. Strzał energii silny jak kopnięcie konia. Cukru tyle, ile złotówek na koncie po grubym weekendzie.",
+    "images": [
+      "https://niemirka.com/1974-large_default/tiger-energy-drink-bez-cukru-250-ml-x-24-sztuki.jpg",
+      ""
+    ]
+  },
+  {
+    "name": "Inny",
+    "variant": "fsfds",
+    "volume": 250,
+    "price": 2.59,
+    "description": "Najlepszy wybór dla ludzi dbających o linię. Strzał energii silny jak kopnięcie konia. Cukru tyle, ile złotówek na koncie po grubym weekendzie.",
+    "images": [
+      "https://niemirka.com/1974-large_default/tiger-energy-drink-bez-cukru-250-ml-x-24-sztuki.jpg",
+      ""
+    ]
+  }
+]
+
